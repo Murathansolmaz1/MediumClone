@@ -2,4 +2,4 @@
 
 <img src = "medium.gif">
 
-[MIT](https://github.com/Murathansolmaz1/kodluyoruzilkrepo/blob/main/LICENSE) 
+### [MIT](https://github.com/Murathansolmaz1/kodluyoruzilkrepo/blob/main/LICENSE) 

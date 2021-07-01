@@ -2,4 +2,4 @@
 
 <img src = "medium.gif">
 
-### [MIT](https://github.com/Murathansolmaz1/MediumClone/main/LICENSE) 
+### [MIT](https://github.com/Murathansolmaz1/MediumClone/blob/main/LICENCE) 
